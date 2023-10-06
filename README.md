@@ -10,7 +10,7 @@ Desenvolver um sistema que deverá receber dois parâmetros via terminal que rep
 O sistema recebe dois valores de entrada para calcular a diferença e imprimir os resultados.
 
 ## Tecnologias
-- Java v17.0
+- Java v21
 
 ## Requisitos
 - Necessário alguma IDE (IntelliJ, Visual Studio Code, Eclipse, etc); 
